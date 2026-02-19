@@ -1,0 +1,4 @@
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\obj\Debug\net9.0\atividade2-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\obj\Debug\net9.0\atividade2-2.AssemblyInfoInputs.cache
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\obj\Debug\net9.0\atividade2-2.AssemblyInfo.cs
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\obj\Debug\net9.0\atividade2-2.csproj.CoreCompileInputs.cache

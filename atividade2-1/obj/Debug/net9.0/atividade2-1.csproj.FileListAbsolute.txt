@@ -1,0 +1,15 @@
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\bin\Debug\net9.0\atividade2-1.exe
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\bin\Debug\net9.0\atividade2-1.deps.json
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\bin\Debug\net9.0\atividade2-1.runtimeconfig.json
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\bin\Debug\net9.0\atividade2-1.dll
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\bin\Debug\net9.0\atividade2-1.pdb
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\obj\Debug\net9.0\atividade2-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\obj\Debug\net9.0\atividade2-1.AssemblyInfoInputs.cache
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\obj\Debug\net9.0\atividade2-1.AssemblyInfo.cs
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\obj\Debug\net9.0\atividade2-1.csproj.CoreCompileInputs.cache
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\obj\Debug\net9.0\atividade2-1.sourcelink.json
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\obj\Debug\net9.0\atividade2-1.dll
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\obj\Debug\net9.0\refint\atividade2-1.dll
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\obj\Debug\net9.0\atividade2-1.pdb
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\obj\Debug\net9.0\atividade2-1.genruntimeconfig.cache
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\atividades-C#\atividade2-1\obj\Debug\net9.0\ref\atividade2-1.dll
