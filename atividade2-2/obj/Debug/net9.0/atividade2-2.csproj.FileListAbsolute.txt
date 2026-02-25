@@ -2,3 +2,14 @@ C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\at
 C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\obj\Debug\net9.0\atividade2-2.AssemblyInfoInputs.cache
 C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\obj\Debug\net9.0\atividade2-2.AssemblyInfo.cs
 C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\obj\Debug\net9.0\atividade2-2.csproj.CoreCompileInputs.cache
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\bin\Debug\net9.0\atividade2-2.exe
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\bin\Debug\net9.0\atividade2-2.deps.json
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\bin\Debug\net9.0\atividade2-2.runtimeconfig.json
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\bin\Debug\net9.0\atividade2-2.dll
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\bin\Debug\net9.0\atividade2-2.pdb
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\obj\Debug\net9.0\atividade2-2.sourcelink.json
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\obj\Debug\net9.0\atividade2-2.dll
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\obj\Debug\net9.0\refint\atividade2-2.dll
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\obj\Debug\net9.0\atividade2-2.pdb
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\obj\Debug\net9.0\atividade2-2.genruntimeconfig.cache
+C:\Users\ead_dev\OneDrive - SESISENAISP - Escolas\miguel-passos\ativiades-C#2\atividade2-2\obj\Debug\net9.0\ref\atividade2-2.dll
