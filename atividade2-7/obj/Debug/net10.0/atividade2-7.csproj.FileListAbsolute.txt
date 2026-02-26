@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\SENAI\C#\atividade2\atividade2-7\bin\Debug\net10.0\atividade2-7.exe
+C:\Users\User\OneDrive\Documentos\SENAI\C#\atividade2\atividade2-7\bin\Debug\net10.0\atividade2-7.deps.json
+C:\Users\User\OneDrive\Documentos\SENAI\C#\atividade2\atividade2-7\bin\Debug\net10.0\atividade2-7.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\SENAI\C#\atividade2\atividade2-7\bin\Debug\net10.0\atividade2-7.dll
+C:\Users\User\OneDrive\Documentos\SENAI\C#\atividade2\atividade2-7\bin\Debug\net10.0\atividade2-7.pdb
+C:\Users\User\OneDrive\Documentos\SENAI\C#\atividade2\atividade2-7\obj\Debug\net10.0\atividade2-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\SENAI\C#\atividade2\atividade2-7\obj\Debug\net10.0\atividade2-7.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\SENAI\C#\atividade2\atividade2-7\obj\Debug\net10.0\atividade2-7.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\SENAI\C#\atividade2\atividade2-7\obj\Debug\net10.0\atividade2-7.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\SENAI\C#\atividade2\atividade2-7\obj\Debug\net10.0\atividade2-7.dll
+C:\Users\User\OneDrive\Documentos\SENAI\C#\atividade2\atividade2-7\obj\Debug\net10.0\refint\atividade2-7.dll
+C:\Users\User\OneDrive\Documentos\SENAI\C#\atividade2\atividade2-7\obj\Debug\net10.0\atividade2-7.pdb
+C:\Users\User\OneDrive\Documentos\SENAI\C#\atividade2\atividade2-7\obj\Debug\net10.0\atividade2-7.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\SENAI\C#\atividade2\atividade2-7\obj\Debug\net10.0\ref\atividade2-7.dll
